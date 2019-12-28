@@ -2,7 +2,7 @@
 
 Version 1.0
 
-Improved rules of play.
+Improved rules for Uno which are objectively superior
 
 ## Standard rules
 All usual Uno rules apply, except:
