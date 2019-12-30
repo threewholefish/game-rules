@@ -1,6 +1,6 @@
 # UnoGoRummy
 
-Version 0.1
+Version 1.0
 
 An amalgamation of Uno, Go Fish and (gin) Rummy
 
@@ -18,6 +18,7 @@ An amalgamation of Uno, Go Fish and (gin) Rummy
     * For instance, a skip card means the next player is skipped, and the next after that will play Go Fish
     * If a +2 or +4 is played, the next player must pick up that number of cards, unless they can chain, in which case the following player has the same opportunity. Once a player has picked up cards at the end of the chain, the following player will play Go Fish
     * If a special card is discarded during a non-Uno round, its effects do not apply.
+* If, at the beginning of an Uno round, the player has one card remaining and has not previously said "Uno" in relation to said card, they must say "Uno" as quickly as possible after the Rummy round's discard, whereafter the standard Uno pickup rules shall apply
 * For the purposes of making runs in Rummy, the order of precedence of the cards in ascending order is as follows:
     * 0-9
     * Reverse
