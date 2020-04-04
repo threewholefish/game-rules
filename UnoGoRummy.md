@@ -26,5 +26,5 @@ An amalgamation of Uno, Go Fish and (gin) Rummy
     * +2
     * Wild
     * +4
-    * Blank/Suicide
-* For the same purposes, Wild, +4, and Blank/Suicide cards can belong to a run of any colour/suit
+    * Blank
+* For the same purposes, Wild, +4, and Blank cards can belong to a run of any colour/suit

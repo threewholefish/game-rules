@@ -36,7 +36,7 @@ These cards have an instant effect on the game
 * If both cards are the same value, treat them as a double
     * If the card before the +2 is also of the same value, go to jail
 
-##### Blank (suicide)
+##### Blank
 * Starting with the player who drew the blank card, and proceeding in the usual order, players instantly move to the corresponding square across the diagonal line from Go to Free Parking (i.e. a player who is on Old Kent Road would move to Mayfair, and a player who is on Leicester Square would move to Northumberland Avenue) and must take the corresponding action.
 
 ##### Reverse
