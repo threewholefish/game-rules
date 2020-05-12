@@ -55,3 +55,5 @@ These cards can be kept for use at a different time. Each player may only hold u
 ##### +4
 * This card may be used to avoid paying rent on any property
 * Each player may only hold one of these cards at any time, regardless of how many other special cards they hold
+
+Any of the above methods of rent avoidance may be countered by the player to which the rent is owed if they also play appropriate rent skip cards. For example, if a player is trying to avoid paying rent on a property in the red group, the owner of said property may counter the action with a red skip, a combination of any skip and a wild card, or a +4 card.
